@@ -47,8 +47,8 @@ export default function App() {
               next
             </button>
           </div>
-        </>
+        </div>
       )}
-    </div>
+    </>
   );
 }
